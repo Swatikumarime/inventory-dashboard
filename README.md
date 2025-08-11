@@ -37,6 +37,13 @@ It allows adding, editing, deleting, and viewing products with live updates.
 
 ---
 
+### How It Works
+The React frontend communicates with the Spring Boot backend via REST APIs.
+The backend handles all CRUD operations and stores data in MySQL. Any change in the database reflects instantly on the UI.
+
+**Author**
+Swati Kumari
+Built as part of my full-stack development learning.
 ## How to Run Locally
 
 ### 1. Clone the repository
@@ -57,12 +64,3 @@ cd frontend
 npm install
 npm start
 Frontend runs on: http://localhost:3000
-
-```bash
-### How It Works
-The React frontend communicates with the Spring Boot backend via REST APIs.
-The backend handles all CRUD operations and stores data in MySQL. Any change in the database reflects instantly on the UI.
-
-**Author**
-Swati Kumari
-Built as part of my full-stack development learning.
