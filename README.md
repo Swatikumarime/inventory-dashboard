@@ -27,13 +27,13 @@ It allows adding, editing, deleting, and viewing products with live updates.
 
 
 **Add Product**  
-![Add Product](screenshots/add-product.png)
+![Add Product](Screenshots/add-product.png)
 
 **Edit Product**  
-![Edit Product](screenshots/edit-product.png)
+![Edit Product](Screenshots/edit-product.png)
 
 **Delete Product**  
-![Delete Product](screenshots/delete-product.png)
+![Delete Product](Screenshots/delete-product.png)
 
 ---
 
