@@ -43,6 +43,7 @@ The backend handles all CRUD operations and stores data in MySQL. Any change in 
 
 **Author** :
 Swati Kumari
+
 Built as part of my full-stack development learning.
 ## How to Run Locally
 
