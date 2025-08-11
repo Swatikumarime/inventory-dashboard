@@ -41,7 +41,7 @@ It allows adding, editing, deleting, and viewing products with live updates.
 The React frontend communicates with the Spring Boot backend via REST APIs.
 The backend handles all CRUD operations and stores data in MySQL. Any change in the database reflects instantly on the UI.
 
-**Author**
+**Author** :
 Swati Kumari
 Built as part of my full-stack development learning.
 ## How to Run Locally
