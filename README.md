@@ -27,16 +27,24 @@ It allows adding, editing, deleting, and viewing products with live updates.
 
 
 **Add Product**  
-![Add Product](screenshots/add-product.png)
+![Add Product](Screenshots/add-product.png)
 
-**Edit/Delete Product**  
-![Edit/Delete Product](screenshots/edit-delete.png)
+**Edit Product**  
+![Edit Product](screenshots/edit-product.png)
 
-**Product List**  
-![Product List](screenshots/product-list.png)
+**Delete Product**  
+![Delete Product](screenshots/delete-product.png)
 
 ---
 
+### How It Works
+The React frontend communicates with the Spring Boot backend via REST APIs.
+The backend handles all CRUD operations and stores data in MySQL. Any change in the database reflects instantly on the UI.
+
+**Author** :
+Swati Kumari
+
+Built as part of my full-stack development learning.
 ## How to Run Locally
 
 ### 1. Clone the repository
@@ -57,12 +65,3 @@ cd frontend
 npm install
 npm start
 Frontend runs on: http://localhost:3000
-
-```bash
-### How It Works
-The React frontend communicates with the Spring Boot backend via REST APIs.
-The backend handles all CRUD operations and stores data in MySQL. Any change in the database reflects instantly on the UI.
-
-**Author**
-Swati Kumari
-Built as part of my full-stack development learning.
